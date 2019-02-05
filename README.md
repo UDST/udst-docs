@@ -2,7 +2,7 @@
 
 # udst-docs
 
-This repo generates the landing page for UDST documentation, hosted at https://docs.udst.org and https://udst-docs.readthedocs.io.
+This repo generates the landing page for UDST documentation, hosted at http://docs.udst.org and https://udst-docs.readthedocs.io.
 
 ### How it works
 
@@ -26,4 +26,4 @@ Hosting settings are at https://readthedocs.org/projects/udst-docs/. If you don'
 
 The DNS settings for the docs.udst.org subdomain contain a CNAME record redirecting traffic to readthedocs.io. ReadTheDocs handles the SSL certificate for https. 
 
-Other UDST projects whose documentation uses this domain (e.g. [ChoiceModels](https://docs.udst.org/projects/choicemodels/en/latest)) have to be marked in ReadTheDocs as "subprojects" of the landing page.
+Other UDST projects whose documentation uses this domain (e.g. [ChoiceModels](http://docs.udst.org/projects/choicemodels/en/latest)) have to be marked in ReadTheDocs as "subprojects" of the landing page.

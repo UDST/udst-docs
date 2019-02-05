@@ -16,7 +16,7 @@ Libraries
 .. toctree::
    :maxdepth: 2
    
-   ChoiceModels <https://docs.udst.org/projects/choicemodels/en/latest>
+   ChoiceModels <http://docs.udst.org/projects/choicemodels/en/latest>
    Orca <https://udst.github.io/orca>
    Pandana <http://udst.github.io/pandana>
    Spandex <https://github.com/udst/spandex>
