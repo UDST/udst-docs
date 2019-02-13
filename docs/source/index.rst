@@ -23,5 +23,5 @@ Libraries
    Synthpop <https://github.com/udst/synthpop>
    UrbanAccess <https://udst.github.io/urbanaccess>
    UrbanSim <https://udst.github.io/urbansim>
-   UrbanSim Templates <https://docs.udst.org/projects/urbansim_templates/en/latest>
+   UrbanSim Templates <https://docs.udst.org/projects/urbansim-templates/en/latest>
 
