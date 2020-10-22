@@ -6,7 +6,7 @@
 Urban Data Science Toolkit documentation
 ========================================
 
-The Urban Data Science Toolkit (UDST) is a growing portfolio of open source tools developed and maintained by UrbanSim Inc., the UC Berkeley Urban Analytics Lab, and contributors from academia, planning organizations, businesses, and elsewhere.
+The Urban Data Science Toolkit (UDST) is a growing portfolio of open source tools developed and maintained by UrbanSim Inc. and contributors from academia, planning organizations, businesses, and elsewhere.
 
 All of these projects are hosted on Github: https://github.com/udst. They are implemented mainly using the scientific Python stack: NumPy, Pandas, and related tools. 
 
