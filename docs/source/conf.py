@@ -21,7 +21,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Urban Data Science Toolkit'
-copyright = '2019, UDST'
+copyright = '2021, UDST'
 author = 'UDST'
 
 # The short X.Y version

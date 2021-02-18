@@ -16,12 +16,12 @@ Libraries
 .. toctree::
    :maxdepth: 2
    
-   ChoiceModels <https://docs.udst.org/projects/choicemodels/en/latest>
+   ChoiceModels <https://udst.github.io/choicemodels>
    Orca <https://udst.github.io/orca>
    Pandana <http://udst.github.io/pandana>
    Spandex <https://github.com/udst/spandex>
    Synthpop <https://github.com/udst/synthpop>
    UrbanAccess <https://udst.github.io/urbanaccess>
    UrbanSim <https://udst.github.io/urbansim>
-   UrbanSim Templates <https://docs.udst.org/projects/urbansim-templates/en/latest>
+   UrbanSim Templates <https://udst.github.io/urbansim_templates>
 
